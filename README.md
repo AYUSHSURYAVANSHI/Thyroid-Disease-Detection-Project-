@@ -7,12 +7,11 @@ The main objective of this project is to predict if a person is having compensat
 # Webpage Link
 
 ## For One-User-Input Prediction
-Heroku: https://tddoneinput.herokuapp.com/
+Microsoft Azure: https://portal.azure.com/#@satiengg.org/resource/subscriptions/04a4a505-5bbe-4561-bea1-55058590607b/resourceGroups/Thyroid/providers/Microsoft.Web/sites/thyroidapp/appServices
 
 ## For Bulk Prediction
-Heroku: https://batchprediction.herokuapp.com/
 
-AWS: http://tddbulkprediction-env.eba-uqgwbduj.us-east-2.elasticbeanstalk.com/
+Microsoft Azure: http://tddbulkprediction-env.eba-uqgwbduj.us-east-2.elasticbeanstalk.com/
 
 # Demo
 
@@ -23,17 +22,17 @@ https://user-images.githubusercontent.com/72372136/134773017-d9d26150-0e68-4c2d-
 
 # Technical Aspects
 
-- Python 3.7 and more
+- Python 3.8 and more
 - Important Libraries: sklearn, pandas, numpy, matplotlib & seaborn
 - Front-end: HTML, CSS 
 - Back-end: Flask framework
 - IDE: Jupyter Notebook, Pycharm & VSCode
 - Database: Cassandra 
-- Deployment: Heroku, AWS
+- Deployment: Microsoft Azure
 
 # How to run this app 
 
-Code is written in Python 3.7 and more. If you don't have python installed on your system, click here https://www.python.org/downloads/ to install.
+Code is written in Python 3.8 and more. If you don't have python installed on your system, click here https://www.python.org/downloads/ to install.
 
 - Create virtual environment - conda create -n myenv python=3.7
 - Activate the environment - conda activate myenv
@@ -97,20 +96,20 @@ The final model is deployed on Heroku using Flask framework.
 
 ## Project Documents
 
-- HLD: https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_HLD_V1.0.pdf
+- HLD: https://github.com/AYUSHSURYAVANSHI/Thyroid-Disease-Detection-Project-/blob/main/Docs/TDD_HLD_V1.0.pdf
 
-- LLD: https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_LLD_V1.0.pdf
+- LLD: https://github.com/AYUSHSURYAVANSHI/Thyroid-Disease-Detection-Project-/blob/main/Docs/TDD_LLD_V1.0.pdf
 
-- Architecture: https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_Architecture_V1.0.pdf
+- Architecture: https://github.com/AYUSHSURYAVANSHI/Thyroid-Disease-Detection-Project-/blob/main/Docs/TDD_Architecture_V1.0.pdf
 
-- Wireframe: https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_Wireframe_V1.0.pdf
+- Wireframe: https://github.com/AYUSHSURYAVANSHI/Thyroid-Disease-Detection-Project-/blob/main/Docs/TDD_Wireframe_V1.0.pdf
 
-- Detailed Project Report: https://github.com/imkushwaha/Thyroid-Disease-Detection/blob/main/Docs/TDD_DPR.pdf
+- Detailed Project Report: https://github.com/AYUSHSURYAVANSHI/Thyroid-Disease-Detection-Project-/blob/main/Docs/Thyroid%20Disease%20Detection%20(1).pdf
 
 
 # Author
 
-Upendra Kumar: https://www.linkedin.com/in/imupendra/
+Ayush Suryavanshi: https://www.linkedin.com/in/ayush-suryavanshi/
 
 
 # Help Me Improve
